@@ -1,8 +1,8 @@
-#CSJTools
+#CSJTools2
 
 ##About
 
-CSJTools is an Objective-C library for iOS developers.
+CSJTools2 is an Objective-C library for iOS developers.
 
 ##Version
 ####0.0.5
@@ -22,8 +22,8 @@ CSJTools is an Objective-C library for iOS developers.
 ##Installation with CocoaPods
 #####Podfile
 ```
-platform :ios, '6.0'
-pod 'CSJTools'
+platform :ios, '8.0'
+pod 'CSJTools2'
 ```
 
 ##List
